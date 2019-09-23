@@ -1,5 +1,5 @@
-# startbootstrap-sb-admin-2-rtl
-نسخه راست به چپ پنل ادمین sb-admin2 
+
+نسخه راست به چپ پنل ادمین#  sb-admin2 
 =======
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 
