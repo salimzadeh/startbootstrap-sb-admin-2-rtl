@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # startbootstrap-sb-admin-2-rtl
 نسخه راست به چپ پنل ادمین sb-admin2 
 =======
