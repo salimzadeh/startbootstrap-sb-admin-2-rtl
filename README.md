@@ -2,9 +2,9 @@
 =======
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
 
-[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) یک قالب پیشخوان مدیریت متن باز است که برای [Bootstrap](http://getbootstrap.com/) و با استفاده از [Start Bootstrap](http://startbootstrap.com/) ساخته شده است.
+[SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-برای نسخه قدیمی بوت استرپ 3 این قالب شما میتوانید [آخرین نسخه پایه](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) از SB Admin 2 برای بوت استرپ 3 را ببینید.
+For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
 
 ## Preview
 
@@ -24,7 +24,7 @@
 
 To begin using this template, choose one of the following options to get started:
 
--   [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/sb-admin-2/)
+-   [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/sb-admin-2/)
 -   Install via npm: `npm i startbootstrap-sb-admin-2`
 -   Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git`
 -   [Fork, Clone, or Download on GitHub](https://github.com/salimzadeh/startbootstrap-sb-admin-2-rtl)
@@ -45,7 +45,7 @@ You must have npm installed globally in order to use this build environment. Thi
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/previews/sb-admin-2/).
 
 ## About
 
