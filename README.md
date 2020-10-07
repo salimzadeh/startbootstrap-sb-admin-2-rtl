@@ -1,11 +1,10 @@
-
-نسخه راست به چپ پنل ادمین#  sb-admin2 
+# نسخه راستچین شده پنل مدیریت SB Admin 2
 =======
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
+# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
 
-[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) یک قالب پیشخوان مدیریت متن باز است که برای [Bootstrap](http://getbootstrap.com/) و با استفاده از [Start Bootstrap](http://startbootstrap.com/) ساخته شده است.
 
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
+برای نسخه قدیمی بوت استرپ 3 این قالب شما میتوانید [آخرین نسخه پایه](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) از SB Admin 2 برای بوت استرپ 3 را ببینید.
 
 ## Preview
 
